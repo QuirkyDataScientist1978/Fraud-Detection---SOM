@@ -9,4 +9,4 @@ We will achieve this with unsupervised deep learning, which means that we will i
 
 The dataset includes the customer ID and all the other variables asked in the application form. The dataset doesn't make sense without the self-organizing map
 
-After creating the map, the list is created, in which the first column refers to the customer ID which can potentially be fraud
+After creating the map, the list is created, in which the first column refers to the customer IDs which are the customers that can potentially be fraud
